@@ -1,0 +1,14 @@
+print('Hello my name is David, what is your name?')
+name=input("So, what's your name")
+print("ooh nice name")
+age=int(input("How old are you"))
+if age=13:
+  print('Thats nice im also 13')
+elif age<18:
+  print("You are a minorrr!")
+elif age <50:
+  print("go to work buddy")
+elif age<70:
+  print("how is your retirement home")
+elif age>100:
+  print("STOP THE CAP")
